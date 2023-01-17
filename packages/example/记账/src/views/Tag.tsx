@@ -6,11 +6,10 @@ import Icon from "components/Icon";
 import styled from "styled-components";
 import Button from "components/Button";
 import Input from "components/Input";
-
 type Params = {
   id: string;
 };
-
+console.log('[ styled ] >', styled.header)
 const NavBar = styled.header`
   text-align: center;
   font-size: 16px;
