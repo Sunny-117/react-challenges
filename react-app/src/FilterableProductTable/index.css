@@ -1,0 +1,10 @@
+.wrapper{
+    border: 1px solid red;
+    padding-top: 20px;
+    width: 400px;
+    height: 300px;
+}
+.product-table{
+    display: flex;
+    justify-content: center;
+}
