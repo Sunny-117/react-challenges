@@ -1,9 +1,0 @@
-{
-  "plugins": {
-    "ticker": true,
-    "coreStrategy": true
-  },
-  "components": {
-    "scoreSystem": true
-  }
-}

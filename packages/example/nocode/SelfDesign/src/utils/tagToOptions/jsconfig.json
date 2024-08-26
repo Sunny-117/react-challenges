@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "esnext",
-    "checkJs": true,
-  },
-  "include": ["./*.js", "tags/*.js"]
-}

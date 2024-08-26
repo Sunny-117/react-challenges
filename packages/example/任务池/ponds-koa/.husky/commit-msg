@@ -1,4 +1,0 @@
-#!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
-echo "========= 执行commit-msg校验 ======="
-pnpm commitlint --edit "$1"
